@@ -1,0 +1,47 @@
+[
+ {
+  "dataset": "aml",
+  "seed": 0,
+  "ncell": 2000,
+  "shape": [
+   359,
+   8,
+   2000,
+   7
+  ],
+  "positives": 43,
+  "n": 359,
+  "disk_mb": 74.9,
+  "file": "aml_cells_n2000_seed0.npz"
+ },
+ {
+  "dataset": "fc4",
+  "seed": 0,
+  "ncell": 2000,
+  "shape": [
+   383,
+   2,
+   2000,
+   21
+  ],
+  "positives": 79,
+  "n": 383,
+  "disk_mb": 95.7,
+  "file": "fc4_cells_n2000_seed0.npz"
+ },
+ {
+  "dataset": "heu",
+  "seed": 0,
+  "ncell": 2000,
+  "shape": [
+   44,
+   7,
+   2000,
+   10
+  ],
+  "positives": 20,
+  "n": 44,
+  "disk_mb": 16.0,
+  "file": "heu_cells_n2000_seed0.npz"
+ }
+]
